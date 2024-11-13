@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "J:\\repos\\Clinic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52C7F285-411A-442A-93C0-D52890CBA160}|Clinic\\Clinic.csproj|j:\\repos\\clinic\\clinic\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{52C7F285-411A-442A-93C0-D52890CBA160}|Clinic\\Clinic.csproj|solutionrelative:clinic\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{52C7F285-411A-442A-93C0-D52890CBA160}|Clinic\\Clinic.csproj|j:\\repos\\clinic\\clinic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{52C7F285-411A-442A-93C0-D52890CBA160}|Clinic\\Clinic.csproj|solutionrelative:clinic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C7F285-411A-442A-93C0-D52890CBA160}|Clinic\\Clinic.csproj|j:\\repos\\clinic\\clinic\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{52C7F285-411A-442A-93C0-D52890CBA160}|Clinic\\Clinic.csproj|solutionrelative:clinic\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52C7F285-411A-442A-93C0-D52890CBA160}|Clinic\\Clinic.csproj|j:\\repos\\clinic\\clinic\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -250,7 +250,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -262,18 +262,17 @@
               "RelativeToolTip": "Clinic\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-12T23:12:25.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T23:12:25.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MyStyle.css",
               "DocumentMoniker": "J:\\repos\\Clinic\\Clinic\\wwwroot\\css\\MyStyle.css",
               "RelativeDocumentMoniker": "Clinic\\wwwroot\\css\\MyStyle.css",
               "ToolTip": "J:\\repos\\Clinic\\Clinic\\wwwroot\\css\\MyStyle.css",
               "RelativeToolTip": "Clinic\\wwwroot\\css\\MyStyle.css",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-12T23:12:23.019Z",
               "EditorCaption": ""
@@ -292,13 +291,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "J:\\repos\\Clinic\\Clinic\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Clinic\\Views\\Home\\Index.cshtml",
               "ToolTip": "J:\\repos\\Clinic\\Clinic\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Clinic\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswIUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-10T17:54:12.41Z",
               "EditorCaption": ""
@@ -325,8 +324,7 @@
               "RelativeToolTip": "Clinic\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T17:55:00.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T17:55:00.863Z"
             },
             {
               "$type": "Document",
@@ -338,8 +336,7 @@
               "RelativeToolTip": "Clinic\\Views\\Home\\Create.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T18:02:32.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T18:02:32.565Z"
             },
             {
               "$type": "Document",
@@ -351,8 +348,7 @@
               "RelativeToolTip": "Clinic\\Views\\Home\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T18:04:11.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T18:04:11.51Z"
             },
             {
               "$type": "Document",
